@@ -36,6 +36,7 @@ const mainMenu = async () => {
         'Add a Role',
         'Add an Employee',
         'Update an Employee Role',
+        'Update an Employee Manager',
         'Exit',
       ],
     },
