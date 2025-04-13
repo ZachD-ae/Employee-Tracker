@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "A command line Employee Tracker that utilizes Node.js, Inquirer, and PostgresSQL. This Tracker will help manage the company's employee database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachD-ae/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachD-ae/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/ZachD-ae/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.5.2",
+    "mysql2": "^3.14.0",
+    "pg": "^8.14.1"
+  }
+}
